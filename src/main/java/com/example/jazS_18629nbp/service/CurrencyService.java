@@ -23,6 +23,6 @@ public class CurrencyService {
 //       public Double getAverageCurrency(String currency, String firstDate, String secondDate){
 //       String url = "api.nbp.pl/api/exchangerates/rates/a/" + currency + "/" +firstDate+ "/" +secondDate + "/?format=json";
 //       Root root = restTemplateConf.restTemplate().getForEntity(url, Root.class).getBody();
-//       return null;
+//
 //    }
 }
